@@ -6,7 +6,7 @@
 import logging
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(1513467017)
+logger =(url_Upload_Bot)
 
 import os
 
