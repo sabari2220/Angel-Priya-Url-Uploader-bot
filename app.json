@@ -23,23 +23,23 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5718780980:AAHqbMrZSBJYuhkpBfCCa8WCnqgphEBowRQ"
     },
-    "APP_ID": {
+    "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "29161994"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "6de0c3c108577f72d5a50097108e9486"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
-      "value": ""
+      "value": "1513467017"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
-      "value": "",
+      "value": "https://te.legra.ph/file/443358073196073b7fc8f.jpg",
       "required": false
     },
     "CHUNK_SIZE": {
